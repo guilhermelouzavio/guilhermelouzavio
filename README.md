@@ -11,5 +11,5 @@ Eu sou desenvolvedor backend e frontend.
 
 These are some of the technologies and tools that I work with:
 
-https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white
+![] (https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white)
 
