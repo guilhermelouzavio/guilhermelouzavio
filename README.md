@@ -1,6 +1,6 @@
 # Guilherme Carvalho Louzavio Rezende 👋 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guilhermelouzavio&theme=blue-green)](https://github.com/guilhermelouzavio/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelouzavio&theme=blue-green)
 
 
 
