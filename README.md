@@ -11,7 +11,7 @@ Eu sou desenvolvedor backend e frontend.
 
 These are some of the technologies and tools that I work with:
 
-[![Csharp Badge] https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white]
+https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white
 [![Html5 Badge] https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white]
 [![Css3 Badge] https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white]
 [![DotNet Badge] https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white]
