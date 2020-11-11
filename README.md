@@ -14,8 +14,9 @@ Hello my name is Guilherme Louzavio. I am a full-stack developer I am passionate
 .
 ### Graduation
 
-🎓 Tecnólogo em T.i Pela escola Senai Suiço-Brasileiro - 2º/2016
-🎓 Graduação em Ánalise e Desenvovimento de Sistemas Fiap - 2º/2020
+
+* 🎓 Tecnólogo em T.i Pela escola Senai Suiço-Brasileiro - 2º/2016
+* 🎓 Graduação em Ánalise e Desenvovimento de Sistemas Fiap - 2º/2020
 
 
 ### ⚡ Technologies
