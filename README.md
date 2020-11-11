@@ -11,6 +11,6 @@ Eu sou desenvolvedor backend e frontend.
 
 These are some of the technologies and tools that I work with:
 
-[![Github Badge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white&link=https://github.com/guilhermelouzavio)](https://github.com/guilhermelouzavio)
+[![CSharp Badge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white)]
 
 
