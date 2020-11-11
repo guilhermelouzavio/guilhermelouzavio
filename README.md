@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋 , My name is Guilherme Louzavio. I am passionate about technology, here in this github you will find some projects where I am more familiar and others where I am learning! :D
 
-<!--
-**guilhermelouzavio/guilhermelouzavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![WhatsApp Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermelouzavio)](https://github.com/guilhermelouzavio)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermelouzavio)](https://github.com/guilhermelouzavio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-louzavio-6a9200151/)](https://www.linkedin.com/in/guilherme-louzavio-6a9200151/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+Eu sou desenvolvedor backend e frontend.
+
+###  Technologies
+
+-
