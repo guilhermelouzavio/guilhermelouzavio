@@ -1,13 +1,25 @@
-# Hi there 👋 , My name is Guilherme Louzavio. I am passionate about technology, here in this github you will find some projects where I am more familiar and others where I am learning! :D
+# Guilherme Carvalho Louzavio Rezende 👋 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermelouzavio)](https://github.com/guilhermelouzavio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-louzavio-6a9200151/)](https://www.linkedin.com/in/guilherme-louzavio-6a9200151/)
 
 
 ### About Me
-Eu sou desenvolvedor backend e frontend.
 
-###  Technologies
+Hello my name is Guilherme Louzavio. I am a full-stack developer I am passionate about technology, here in this github you will find some projects where I am more familiar and others where I am learning! :D
+.
+### Graduation
+
+🎓 Tecnólogo em T.i Pela escola Senai Suiço-Brasileiro - 2º/2016
+🎓 Graduação em Ánalise e Desenvovimento de Sistemas Fiap - 2º/2020
+
+
+### ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 
