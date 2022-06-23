@@ -5,7 +5,7 @@
 
 ### About Me
 
-Hello my name is Guilherme Louzavio. I am a full-stack developer I am passionate about technology, here in this github you will find some projects where I am more familiar and others where I am learning! :D
+Hello, I,m Guilherme Louzavio. I am a full-stack developer and I am passionate about technology, here in this github you will find some projects where I am more familiar and others where I am learning! :D
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermelouzavio)](https://github.com/guilhermelouzavio)
